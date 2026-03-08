@@ -86,6 +86,6 @@ public class Lable2 extends JLabel
         add(pass);
         add(userfield);
         add(passfield);
-        add(login_button);//hello
+        add(login_button);
     }
 }
